@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5567
     wikipedia: http://en.wikipedia.org/wiki/Honoré_Beaugrand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16210#La-chasse-galerieL-gendes-Canadiennes
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2005-07-05'
 gutenberg_type: Text
